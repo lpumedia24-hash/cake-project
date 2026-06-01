@@ -1,0 +1,49 @@
+{
+  "hero": {
+    "title": "Artisanal Excellence in Every Bite",
+    "subtitle": "Experience the fusion of traditional craft and modern pastry at Lumina Bakehouse & Academy.",
+    "ctaText": "Explore the Menu",
+    "ctaLink": "/menu",
+    "backgroundImage": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&q=80&w=2000"
+  },
+  "about": {
+    "title": "Our Artisan Story",
+    "content": "Founded in the heart of the city, Lumina Bakehouse is more than just a bakery. It's a sanctuary for those who appreciate the finer details of slow-fermented bread and delicate French pastries. Our Academy serves as a bridge for aspiring bakers to master the timeless techniques of the trade.",
+    "image": "https://images.unsplash.com/photo-1555507036-ab1f4038808a?auto=format&fit=crop&q=80&w=1000"
+  },
+  "sections": [
+    {
+      "id": "featured-products",
+      "title": "Signature Creations",
+      "items": [
+        {
+          "id": "1",
+          "name": "Sourdough Batard",
+          "price": "8.50",
+          "description": "48-hour fermented organic wheat with a blistered crust.",
+          "image": "https://images.unsplash.com/photo-1585478259715-876a6a81fc08?auto=format&fit=crop&q=80&w=500"
+        },
+        {
+          "id": "2",
+          "name": "Honey-Glazed Croissant",
+          "price": "4.25",
+          "description": "Laminated with premium French butter and local wildflower honey.",
+          "image": "https://images.unsplash.com/photo-1555507036-ab1f4038808a?auto=format&fit=crop&q=80&w=500"
+        }
+      ]
+    },
+    {
+      "id": "featured-courses",
+      "title": "Master the Craft",
+      "items": [
+        {
+          "id": "c1",
+          "name": "Artisan Bread Basics",
+          "price": "120.00",
+          "description": "Learn the fundamentals of hydration, fermentation, and scoring.",
+          "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&q=80&w=500"
+        }
+      ]
+    }
+  ]
+}
